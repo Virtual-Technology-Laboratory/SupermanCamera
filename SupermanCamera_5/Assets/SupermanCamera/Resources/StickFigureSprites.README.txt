@@ -1,0 +1,2 @@
+The stick figure sprites were created especially for this project by Nicholas 
+Woods and are licensed under CreativeCommons Attribution-ShareAlike (CC BY-SA).
