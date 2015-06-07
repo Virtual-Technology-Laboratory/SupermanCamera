@@ -58,7 +58,6 @@
      <Compile Include="Assets\TrendGraph\Example\SumOfSinesDisturbance.cs" />
      <Compile Include="Assets\TrendGraph\Example\TrendGraphDataAdapter.cs" />
      <Compile Include="Assets\TrendGraph\TrendGraphController.cs" />
-     <Compile Include="Assets\VTL\RTSCamera.cs" />
      <None Include="Assets\SimTimeControls\Resources\UI\NWbtnPackage\NWbtnPackage.README.txt" />
      <None Include="Assets\SupermanCamera\Resources\StickFigureSprites.README.txt" />
      <None Include="Assets\SupermanCamera\README.txt" />
